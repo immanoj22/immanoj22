@@ -10,6 +10,7 @@ Hi, I'm Manoj. I'm a full stack developer. Most of my work is Java and Spring Bo
 ## Some things I've built
 
 - [Trevolt](https://github.com/immanoj22/trevolt): forex trading demo with a React web app, a React Native app, a Node and SQLite backend and an admin panel
+- [ebook-converter](https://github.com/immanoj22/ebook-converter): converts PDF books into DocBook, EPUB and other formats, with a web app to review and fix the output
 - [E-commerce](https://github.com/immanoj22/E-commerce): shop with a React front end and a Spring Boot and PostgreSQL API
 - [Employe-management](https://github.com/immanoj22/Employe-management): employee CRUD app, React and Spring Boot
 - [User-authentication-using-spring-security](https://github.com/immanoj22/User-authentication-using-spring-security): signup and login with JWT
