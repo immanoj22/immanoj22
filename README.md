@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/manojs22"><img src="assets/header.svg" width="100%" alt="Manoj S, full stack developer in Chennai, open to freelance work"></a>
 
-I'm a full stack developer with professional experience building web apps, mobile apps and the back ends behind them. On the server I mostly use Java with Spring Boot, or Node.js. On the front end I use React for the web and React Native for phones.
+I'm a full stack developer with professional experience building web apps, mobile apps and the back ends behind them. On the server I mostly use Java with Spring Boot, or Node.js. On the front end I use React for the web and React Native for phones. I also handle deployment: Docker images, Jenkins pipelines and hosting on AWS.
 
 I take on freelance projects, and I'm happy to hear about good opportunities.
 
@@ -37,6 +37,10 @@ I take on freelance projects, and I'm happy to hear about good opportunities.
 <td width="50%" valign="top"><a href="https://github.com/immanoj22/User-authentication-using-spring-security"><img src="assets/be-auth.svg" width="100%" alt="User authentication"></a><br><b><a href="https://github.com/immanoj22/User-authentication-using-spring-security">User authentication</a></b><br>Sign-up and login with Spring Security and JWT.</td>
 </tr>
 </table>
+
+<a href="https://github.com/immanoj22/jenkins"><img src="assets/t-deploy.svg" width="100%" alt="Deployment and CI/CD"></a>
+
+<a href="https://github.com/immanoj22/jenkins"><img src="assets/pipeline.svg" width="100%" alt="CI/CD pipeline: GitHub push, Jenkins builds with Maven, Docker image pushed to Docker Hub, Jenkins deploys to Kubernetes on AWS EKS"></a>
 
 More projects, including [employee management](https://github.com/immanoj22/Employe-management) and [Spring AI](https://github.com/immanoj22/springAI-Learning), are in my [repositories](https://github.com/immanoj22?tab=repositories).
 
