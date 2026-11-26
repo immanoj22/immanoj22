@@ -1,6 +1,8 @@
+<img src="assets/header.svg" width="100%" alt="Manoj S, full stack developer">
+
 ## Hi, I'm Manoj
 
-I'm a full stack developer based in Chennai. I build web apps, mobile apps and the back ends behind them, mostly with Java and Spring Boot or Node.js on the server and React or React Native in front.
+I'm a full stack developer with professional experience building web apps, mobile apps and the back ends behind them. On the server I mostly use Java with Spring Boot or Node.js, and React or React Native in front.
 
 I take freelance work, and I'm happy to hear about good opportunities.
 
@@ -15,13 +17,20 @@ I take freelance work, and I'm happy to hear about good opportunities.
 
 ### Full stack
 
-**[Trevolt](https://github.com/immanoj22/trevolt)**: forex trading demo with a React web app, a React Native app, a Node and SQLite back end and an admin panel.
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="https://raw.githubusercontent.com/immanoj22/trevolt/main/docs/screenshots/web-light/02-forex-terminal.png" alt="Trevolt screenshot"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>Forex trading demo: React web app, React Native app, Node and SQLite back end, admin panel.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/admin-users.png" alt="Meetwave screenshot"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Hobby-based social app: React Native, Node and MongoDB, live chat, React admin panel. Team project.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/ebook-converter"><img src="https://raw.githubusercontent.com/immanoj22/ebook-converter/main/docs/screenshots/04-browse.png" alt="ebook-converter screenshot"></a><br><b><a href="https://github.com/immanoj22/ebook-converter">ebook-converter</a></b><br>Turns PDF books into DocBook, EPUB and other formats, with a web app to review the result.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="https://raw.githubusercontent.com/immanoj22/E-commerce/main/docs/screenshots/home.png" alt="E-commerce screenshot"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>Online shop with a React front end and a Spring Boot and PostgreSQL API.</td>
+</tr>
+</table>
 
-**[Meetwave](https://github.com/immanoj22/meetwave-app)**: social app for meeting people through shared hobbies, with a React Native app, a Node and MongoDB back end, live chat and a React admin panel. Team project.
-
-**[ebook-converter](https://github.com/immanoj22/ebook-converter)**: turns PDF books into DocBook, EPUB and other formats, with a web app to review and correct the result.
-
-**[E-commerce](https://github.com/immanoj22/E-commerce)**: online shop with a React front end and a Spring Boot and PostgreSQL API.
+<p>
+<img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/app-people.png" width="24%" alt="Meetwave mobile screen"> <img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/app-events.png" width="24%" alt="Meetwave mobile screen"> <img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/app-profile.png" width="24%" alt="Meetwave mobile screen"> <img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/app-conversation.png" width="24%" alt="Meetwave mobile screen">
+</p>
 
 ### Back end
 
