@@ -16,12 +16,12 @@ I take on freelance projects, and I'm happy to hear about good opportunities.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="assets/fs-trevolt.svg" width="100%" alt="Trevolt"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>Forex trading demo: React web app, React Native app, Node and SQLite back end, admin panel.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="assets/fs-meetwave.svg" width="100%" alt="Meetwave"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Social app for meeting people through hobbies: React Native, Node and MongoDB, live chat, React admin panel. Team project.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="assets/fs-trevolt.svg" width="100%" alt="Trevolt"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>A trading platform where people follow live currency prices, place and close trades, and track their wallet and profit from the web or their phone. Admins manage users, deposits and markets.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="assets/fs-meetwave.svg" width="100%" alt="Meetwave"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Helps people find others nearby who share their hobbies, join groups, go to local events and chat. Admins moderate users, groups and events. Team project.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/ebook-converter"><img src="assets/fs-ebook.svg" width="100%" alt="ebook-converter"></a><br><b><a href="https://github.com/immanoj22/ebook-converter">ebook-converter</a></b><br>Turns PDF books into DocBook, EPUB and other formats, with a web app to review the result.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="assets/fs-shop.svg" width="100%" alt="E-commerce"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>Online shop with a React front end and a Spring Boot and PostgreSQL API.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/ebook-converter"><img src="assets/fs-ebook.svg" width="100%" alt="ebook-converter"></a><br><b><a href="https://github.com/immanoj22/ebook-converter">ebook-converter</a></b><br>Turns PDF books into e-books ready for publishers. An editor checks each page next to the original and fixes anything the converter got wrong before export.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="assets/fs-shop.svg" width="100%" alt="E-commerce"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>An online store where shoppers browse by category, search and fill a cart, and sellers add and edit their own products.</td>
 </tr>
 </table>
 
@@ -29,12 +29,12 @@ I take on freelance projects, and I'm happy to hear about good opportunities.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/ride-hailing-backend"><img src="assets/be-ride.svg" width="100%" alt="ride-hailing-backend"></a><br><b><a href="https://github.com/immanoj22/ride-hailing-backend">ride-hailing-backend</a></b><br>Cab booking platform: eight Spring Boot services with PostgreSQL, Redis, RabbitMQ and Socket.IO.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/betting-platform-backend"><img src="assets/be-betting.svg" width="100%" alt="betting-platform-backend"></a><br><b><a href="https://github.com/immanoj22/betting-platform-backend">betting-platform-backend</a></b><br>Game and wallet services for a betting site in Node, MongoDB and Redis. Team project.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/ride-hailing-backend"><img src="assets/be-ride.svg" width="100%" alt="ride-hailing-backend"></a><br><b><a href="https://github.com/immanoj22/ride-hailing-backend">ride-hailing-backend</a></b><br>The server side of a cab booking app. Riders book trips, drivers accept them, both follow the ride live, then pay, rate and get support.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/betting-platform-backend"><img src="assets/be-betting.svg" width="100%" alt="betting-platform-backend"></a><br><b><a href="https://github.com/immanoj22/betting-platform-backend">betting-platform-backend</a></b><br>The server side of an online betting site. Players sign in, keep a balance, play live game rounds and claim rewards. Team project.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/springboot-microservices"><img src="assets/be-micro.svg" width="100%" alt="springboot-microservices"></a><br><b><a href="https://github.com/immanoj22/springboot-microservices">springboot-microservices</a></b><br>Service registry, API gateway and a JWT auth service.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/User-authentication-using-spring-security"><img src="assets/be-auth.svg" width="100%" alt="User authentication"></a><br><b><a href="https://github.com/immanoj22/User-authentication-using-spring-security">User authentication</a></b><br>Sign-up and login with Spring Security and JWT.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/springboot-microservices"><img src="assets/be-micro.svg" width="100%" alt="springboot-microservices"></a><br><b><a href="https://github.com/immanoj22/springboot-microservices">springboot-microservices</a></b><br>A user system split into small services, with sign-up, login and profile updates, and a gateway that checks every request first.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/User-authentication-using-spring-security"><img src="assets/be-auth.svg" width="100%" alt="User authentication"></a><br><b><a href="https://github.com/immanoj22/User-authentication-using-spring-security">User authentication</a></b><br>Lets people create an account and log in, and checks their login on every request after that.</td>
 </tr>
 </table>
 
