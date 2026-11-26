@@ -6,33 +6,24 @@ I'm a full stack developer with professional experience building web apps, mobil
 
 I take freelance work, and I'm happy to hear about good opportunities.
 
-## What I can help you with
+<img src="assets/t-help.svg" width="100%" alt="What I can help you with">
 
-- A complete product: web app, mobile app, API and admin panel
-- Back end work: REST APIs, microservices, databases, payments, live chat and notifications
-- Front end work in React and React Native
-- Taking over an existing project to fix bugs, add features or move it to a newer stack
+<img src="assets/services.svg" width="100%" alt="A complete product: web app, mobile app, API and admin panel. Back end: REST APIs, microservices, payments, live chat. Front end: React and React Native. Existing projects: bug fixes, new features, newer stack.">
 
-## Featured work
-
-### Full stack
+<img src="assets/t-work.svg" width="100%" alt="Featured work">
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="https://raw.githubusercontent.com/immanoj22/trevolt/main/docs/screenshots/web-light/02-forex-terminal.png" alt="Trevolt screenshot"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>Forex trading demo: React web app, React Native app, Node and SQLite back end, admin panel.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/admin-users.png" alt="Meetwave screenshot"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Hobby-based social app: React Native, Node and MongoDB, live chat, React admin panel. Team project.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="assets/fs-trevolt.svg" width="100%" alt="Trevolt screenshots"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>Forex trading demo: React web app, React Native app, Node and SQLite back end, admin panel.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="assets/fs-meetwave.svg" width="100%" alt="Meetwave screenshots"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Hobby-based social app: React Native, Node and MongoDB, live chat, React admin panel. Team project.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/ebook-converter"><img src="https://raw.githubusercontent.com/immanoj22/ebook-converter/main/docs/screenshots/04-browse.png" alt="ebook-converter screenshot"></a><br><b><a href="https://github.com/immanoj22/ebook-converter">ebook-converter</a></b><br>Turns PDF books into DocBook, EPUB and other formats, with a web app to review the result.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="https://raw.githubusercontent.com/immanoj22/E-commerce/main/docs/screenshots/home.png" alt="E-commerce screenshot"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>Online shop with a React front end and a Spring Boot and PostgreSQL API.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/ebook-converter"><img src="assets/fs-ebook.svg" width="100%" alt="ebook-converter screenshots"></a><br><b><a href="https://github.com/immanoj22/ebook-converter">ebook-converter</a></b><br>Turns PDF books into DocBook, EPUB and other formats, with a web app to review the result.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="assets/fs-shop.svg" width="100%" alt="E-commerce screenshots"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>Online shop with a React front end and a Spring Boot and PostgreSQL API.</td>
 </tr>
 </table>
 
-<p>
-<img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/app-people.png" width="24%" alt="Meetwave mobile screen"> <img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/app-events.png" width="24%" alt="Meetwave mobile screen"> <img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/app-profile.png" width="24%" alt="Meetwave mobile screen"> <img src="https://raw.githubusercontent.com/immanoj22/meetwave-app/main/docs/screenshots/app-conversation.png" width="24%" alt="Meetwave mobile screen">
-</p>
-
-### Back end
+<img src="assets/t-back.svg" width="100%" alt="Back end projects">
 
 <table>
 <tr>
@@ -47,20 +38,16 @@ I take freelance work, and I'm happy to hear about good opportunities.
 
 More smaller projects, including [employee management](https://github.com/immanoj22/Employe-management) and [Spring AI](https://github.com/immanoj22/springAI-Learning), are in my repositories.
 
-## Tools I use
+<img src="assets/t-tools.svg" width="100%" alt="Tools I use">
 
-| | |
-|---|---|
-| Back end | Java, Spring Boot, Spring Security, Node.js, Express |
-| Front end | React, React Native, Redux, JavaScript, HTML, CSS |
-| Data | PostgreSQL, MongoDB, Redis, SQLite |
-| Messaging and live updates | RabbitMQ, Kafka, Socket.IO, WebSocket |
-| Delivery | Docker, Jenkins, Git |
+<img src="assets/tools.svg" width="100%" alt="Java, Spring Boot, Spring Security, Node.js, Express, React, React Native, Redux, JavaScript, HTML, CSS, PostgreSQL, MongoDB, Redis, SQLite, RabbitMQ, Kafka, Socket.IO, WebSocket, Docker, Jenkins, Git">
 
-## Get in touch
+<img src="assets/t-contact.svg" width="100%" alt="Get in touch">
 
 Tell me what you're building and where you're stuck.
 
-- Email: [s.manojraj193@gmail.com](mailto:s.manojraj193@gmail.com)
-- Phone: +91 90945 81906
-- LinkedIn: [linkedin.com/in/manojs22](https://www.linkedin.com/in/manojs22)
+<p>
+<a href="mailto:s.manojraj193@gmail.com"><img src="assets/c-email.svg" width="32%" alt="Email s.manojraj193@gmail.com"></a>
+<a href="tel:+919094581906"><img src="assets/c-phone.svg" width="32%" alt="Phone +91 90945 81906"></a>
+<a href="https://www.linkedin.com/in/manojs22"><img src="assets/c-linkedin.svg" width="32%" alt="LinkedIn manojs22"></a>
+</p>
