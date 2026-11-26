@@ -34,13 +34,16 @@ I take freelance work, and I'm happy to hear about good opportunities.
 
 ### Back end
 
-**[ride-hailing-backend](https://github.com/immanoj22/ride-hailing-backend)**: cab booking platform as eight Spring Boot services with PostgreSQL, Redis, RabbitMQ and Socket.IO.
-
-**[betting-platform-backend](https://github.com/immanoj22/betting-platform-backend)**: game and wallet services for a betting site in Node, MongoDB and Redis. Team project.
-
-**[springboot-microservices](https://github.com/immanoj22/springboot-microservices)**: service registry, API gateway and a JWT auth service.
-
-**[User authentication](https://github.com/immanoj22/User-authentication-using-spring-security)**: sign-up and login with Spring Security and JWT.
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/ride-hailing-backend"><img src="assets/be-ride.svg" width="100%" alt="ride-hailing-backend architecture"></a><br><b><a href="https://github.com/immanoj22/ride-hailing-backend">ride-hailing-backend</a></b><br>Cab booking platform as eight Spring Boot services with PostgreSQL, Redis, RabbitMQ and Socket.IO.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/betting-platform-backend"><img src="assets/be-betting.svg" width="100%" alt="betting-platform-backend architecture"></a><br><b><a href="https://github.com/immanoj22/betting-platform-backend">betting-platform-backend</a></b><br>Game and wallet services for a betting site in Node, MongoDB and Redis. Team project.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/springboot-microservices"><img src="assets/be-micro.svg" width="100%" alt="springboot-microservices architecture"></a><br><b><a href="https://github.com/immanoj22/springboot-microservices">springboot-microservices</a></b><br>Service registry, API gateway and a JWT auth service.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/User-authentication-using-spring-security"><img src="assets/be-auth.svg" width="100%" alt="User authentication architecture"></a><br><b><a href="https://github.com/immanoj22/User-authentication-using-spring-security">User authentication</a></b><br>Sign-up and login with Spring Security and JWT.</td>
+</tr>
+</table>
 
 More smaller projects, including [employee management](https://github.com/immanoj22/Employe-management) and [Spring AI](https://github.com/immanoj22/springAI-Learning), are in my repositories.
 
