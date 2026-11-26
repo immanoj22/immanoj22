@@ -16,12 +16,17 @@ I take on freelance projects, and I'm happy to hear about good opportunities.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="assets/fs-shop.svg" width="100%" alt="E-commerce"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>An online store where shoppers browse by category, search and fill a cart, and sellers add and edit their own products. Spring Boot and React.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="assets/fs-trevolt.svg" width="100%" alt="Trevolt"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>A trading platform where people follow live currency prices, place and close trades, and track their wallet and profit. Admins manage users, deposits and markets.</td>
+  <td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="assets/fs-trevolt.svg" width="100%" alt="Trevolt"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>A trading platform where people follow live currency prices, place and close trades, and track their wallet and profit. Admins manage users, deposits and markets.</td>
+
+  <td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="assets/fs-meetwave.svg" width="100%" alt="Meetwave"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Helps people find others nearby who share their hobbies, join groups, go to local events and chat. Admins moderate users, groups and events. Team project.</td>
+  
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/immanoj22/ebook-converter"><img src="assets/fs-ebook.svg" width="100%" alt="ebook-converter"></a><br><b><a href="https://github.com/immanoj22/ebook-converter">ebook-converter</a></b><br>Turns PDF books into e-books ready for publishers. An editor checks each page next to the original and fixes anything the converter got wrong before export.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="assets/fs-meetwave.svg" width="100%" alt="Meetwave"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Helps people find others nearby who share their hobbies, join groups, go to local events and chat. Admins moderate users, groups and events. Team project.</td>
+
+  
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="assets/fs-shop.svg" width="100%" alt="E-commerce"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>An online store where shoppers browse by category, search and fill a cart, and sellers add and edit their own products. Spring Boot and React.</td>
+
 </tr>
 </table>
 
