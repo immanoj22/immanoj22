@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/manojs22"><img src="assets/header.svg" width="100%" alt="Manoj S, full stack developer in Chennai, open to freelance work"></a>
 
-I'm a full stack developer with professional experience building web apps, mobile apps and the back ends behind them. On the server I mostly use Java with Spring Boot, or Node.js. On the front end I use React for the web and React Native for phones. I also handle deployment: Docker images, Jenkins pipelines and hosting on AWS.
+I'm a full stack developer. I build back ends mainly with Java and Spring Boot, and also with Node.js and Express. For the front end I use React. I also handle deployment with Docker, Jenkins and AWS, and can build mobile apps with React Native when a project needs one.
 
 I take on freelance projects, and I'm happy to hear about good opportunities.
 
@@ -16,12 +16,12 @@ I take on freelance projects, and I'm happy to hear about good opportunities.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="assets/fs-trevolt.svg" width="100%" alt="Trevolt"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>A trading platform where people follow live currency prices, place and close trades, and track their wallet and profit from the web or their phone. Admins manage users, deposits and markets.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="assets/fs-meetwave.svg" width="100%" alt="Meetwave"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Helps people find others nearby who share their hobbies, join groups, go to local events and chat. Admins moderate users, groups and events. Team project.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="assets/fs-shop.svg" width="100%" alt="E-commerce"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>An online store where shoppers browse by category, search and fill a cart, and sellers add and edit their own products. Spring Boot and React.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/trevolt"><img src="assets/fs-trevolt.svg" width="100%" alt="Trevolt"></a><br><b><a href="https://github.com/immanoj22/trevolt">Trevolt</a></b><br>A trading platform where people follow live currency prices, place and close trades, and track their wallet and profit. Admins manage users, deposits and markets.</td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/immanoj22/ebook-converter"><img src="assets/fs-ebook.svg" width="100%" alt="ebook-converter"></a><br><b><a href="https://github.com/immanoj22/ebook-converter">ebook-converter</a></b><br>Turns PDF books into e-books ready for publishers. An editor checks each page next to the original and fixes anything the converter got wrong before export.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/E-commerce"><img src="assets/fs-shop.svg" width="100%" alt="E-commerce"></a><br><b><a href="https://github.com/immanoj22/E-commerce">E-commerce</a></b><br>An online store where shoppers browse by category, search and fill a cart, and sellers add and edit their own products.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/meetwave-app"><img src="assets/fs-meetwave.svg" width="100%" alt="Meetwave"></a><br><b><a href="https://github.com/immanoj22/meetwave-app">Meetwave</a></b><br>Helps people find others nearby who share their hobbies, join groups, go to local events and chat. Admins moderate users, groups and events. Team project.</td>
 </tr>
 </table>
 
@@ -30,11 +30,11 @@ I take on freelance projects, and I'm happy to hear about good opportunities.
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/immanoj22/ride-hailing-backend"><img src="assets/be-ride.svg" width="100%" alt="ride-hailing-backend"></a><br><b><a href="https://github.com/immanoj22/ride-hailing-backend">ride-hailing-backend</a></b><br>The server side of a cab booking app. Riders book trips, drivers accept them, both follow the ride live, then pay, rate and get support.</td>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/betting-platform-backend"><img src="assets/be-betting.svg" width="100%" alt="betting-platform-backend"></a><br><b><a href="https://github.com/immanoj22/betting-platform-backend">betting-platform-backend</a></b><br>The server side of an online betting site. Players sign in, keep a balance, play live game rounds and claim rewards. Team project.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/springboot-microservices"><img src="assets/be-micro.svg" width="100%" alt="springboot-microservices"></a><br><b><a href="https://github.com/immanoj22/springboot-microservices">springboot-microservices</a></b><br>A user system split into small services, with sign-up, login and profile updates, and a gateway that checks every request first.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/immanoj22/springboot-microservices"><img src="assets/be-micro.svg" width="100%" alt="springboot-microservices"></a><br><b><a href="https://github.com/immanoj22/springboot-microservices">springboot-microservices</a></b><br>A user system split into small services, with sign-up, login and profile updates, and a gateway that checks every request first.</td>
 <td width="50%" valign="top"><a href="https://github.com/immanoj22/User-authentication-using-spring-security"><img src="assets/be-auth.svg" width="100%" alt="User authentication"></a><br><b><a href="https://github.com/immanoj22/User-authentication-using-spring-security">User authentication</a></b><br>Lets people create an account and log in, and checks their login on every request after that.</td>
+<td width="50%" valign="top"><a href="https://github.com/immanoj22/betting-platform-backend"><img src="assets/be-betting.svg" width="100%" alt="betting-platform-backend"></a><br><b><a href="https://github.com/immanoj22/betting-platform-backend">betting-platform-backend</a></b><br>The server side of an online betting site. Players sign in, keep a balance, play live game rounds and claim rewards. Team project.</td>
 </tr>
 </table>
 
